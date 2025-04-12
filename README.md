@@ -2,6 +2,14 @@
 
 멍개가 만든 MCP Host
 
+```bash
+$ npm i
+```
+
+```bash
+$ npm run dev
+```
+
 ### Mcp Server
 
 ```ts
